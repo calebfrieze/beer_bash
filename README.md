@@ -1,2 +1,2 @@
-# beer_bash
-My custom bash profile with beer!
+# Beer Bash
+My custom .bash_profile with beer!
